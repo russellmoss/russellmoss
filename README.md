@@ -2,7 +2,7 @@
 
 I build AI tools at [Savvy Wealth](https://www.savvywealth.com) in New York.
 
-Most of my work is about making AI agents useful inside a real company: giving people a place to share what they build with Claude, connecting Claude to the tools they already use, and putting checks around agents so their work can be trusted.
+Most of my work is about making AI agents useful inside the company: giving people a place to share what they build with Claude, connecting Claude to the tools they already use, and putting checks around agents so their work can be trusted.
 
 ### What I'm working on
 
